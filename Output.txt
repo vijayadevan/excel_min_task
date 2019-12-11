@@ -1,0 +1,12 @@
+10001 SUM-AMT Description
+10002 SUM-AMT Description
+10002 SUM-AMT Description
+10003 SUM-AMT2 Description1
+10004 SUM-AMT Description2
+10005 SUM-AMT2 Description1 Continued
+10006 SUM-AMT Description
+10007 SUM-AMT Description
+10008 SUM-AMT Description
+10009 SUM-AMT2 Description1
+10010 SUM-AMT Description2
+10011 SUM-AMT2 Description1 Continued
